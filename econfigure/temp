@@ -1,0 +1,65 @@
+    <!--Grid Row3-->
+                    <div class="row  container px-5">
+
+                        <!-- Grid Column1-->
+                        <div class="col container align-items-center justify-content-center px-1">
+                            <img src="asset\man.png" class="img-staff">
+                        </div>
+                        <!--Grid Column1-->
+
+                        <!--Grid Column2-->
+                        <div class="col container align-items-center justify-content-center px-1">
+                            <img src="asset\woman.png" class="img-staff">
+                        </div>                        
+                        <!--Grid Column2-->
+
+                        <!--Grid Column3-->
+                        <div class="col container align-items-center justify-content-center px-1">
+                            <img src="asset\man.png" class="img-staff">
+                        </div>
+                        <!--Grid Column4-->
+
+                        <!--Grid Column4-->
+                        <div class="col container align-items-center justify-content-center px-1">
+                            <img src="asset\woman.png" class="img-staff">
+                        </div>
+                        <!--Grid Column4-->                        
+                        
+                        <!--Grid Column5-->
+                        <div class="col container align-items-center justify-content-center px-1">
+                            <img src="asset\man.png" class="img-staff">
+                        </div>
+                        <!--Grid Column5-->                        
+                        
+                        <!--Grid Column6-->
+                        <div class="col container align-items-center justify-content-center px-1">
+                            <img src="asset\woman.png" class="img-staff">
+                        </div>
+                        <!--Grid Column6-->                        
+                        
+                        <!--Grid Column7-->
+                        <div class="col container align-items-center justify-content-center px-1">
+                            <img src="asset\man.png" class="img-staff">
+                        </div>
+                        <!--Grid Column7-->                        
+                        
+                        <!--Grid Column8-->
+                        <div class="col container align-items-center justify-content-center px-1">
+                            <img src="asset\woman.png" class="img-staff">
+                        </div>
+                        <!--Grid Column8-->
+
+                        <!--Grid Column9-->
+                        <div class="col container align-items-center justify-content-center px-1">
+                            <img src="asset\man.png" class="img-staff">
+                        </div>
+                        <!--Grid Column9-->
+
+                        <!--Grid Unknown-->
+                        <div>
+                        <button type="button" class="btn btn-primary rounded-pill me-2 " style="width: auto;">See all</button>
+                        </div>          
+                        <!--Grid Unknown -->
+
+                    </div>
+                    <!--Grid Row3-->

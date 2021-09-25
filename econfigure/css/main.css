@@ -1,0 +1,77 @@
+header {
+    width: 100%;
+    height: 60px;
+}
+
+header nav {
+    height: 100%;
+    margin:  0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+header nav ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+}
+
+header nav ul li:not(:last-of-type) {
+    padding-right: 10px;
+}
+
+#cta {
+    background-color: white;
+    padding: 5px;
+}
+
+.intro {
+    height: 500px;
+
+}
+
+.img-intro {
+    width: 200px;
+
+}
+
+.img-plogo{
+    width: 55px;
+}
+
+.img-alogo{
+    width: 100px;
+    height: 100 px;
+}
+
+.img-staff {
+    width: 35px ;
+}
+
+.ach-sty {
+    width: 35px;
+    height: 90px;
+    background-color: orange;
+    color: white;
+}
+
+.butn:hover{
+    color: blueviolet;
+}
+
+.butn{
+    color: blueviolet;
+        border-color: blueviolet;
+}
+
+.card svg {
+    width: 75px;
+    height: 75px;
+}
+
+.card:hover {
+
+}
